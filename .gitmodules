@@ -1,7 +1,7 @@
-submodule "supertinycron/supertinycron"]
+[submodule "supertinycron/supertinycron"]
 	path = supertinycron
 	url = https://github.com/exander77/supertinycron.git
 
-submodule "espdsp/espdsp"]
+[submodule "espdsp/espdsp"]
 	path = espDSP
 	url = https://github.com/espressif/esp-dsp.git
