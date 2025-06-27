@@ -1,5 +1,5 @@
 submodule "supertinycron/supertinycron"]
-	path = supertinycron/supertinycron
+	path = supertinycron
 	url = https://github.com/exander77/supertinycron.git
 
 submodule "espdsp/espdsp"]
